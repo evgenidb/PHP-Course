@@ -1,0 +1,19 @@
+p.default{
+	color:DarkGreen;
+}
+
+p.nonNumber{
+	color:Red;
+}
+
+p.nonBetweener{
+	color:Red;
+}
+
+p.prime{
+	color:Black;
+}
+
+p.nonPrime{
+	color:Cyan;
+}
